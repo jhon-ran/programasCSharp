@@ -1,0 +1,13 @@
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.csprojAssemblyReference.cache
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.AssemblyInfoInputs.cache
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.AssemblyInfo.cs
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.exe
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.deps.json
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.runtimeconfig.json
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.runtimeconfig.dev.json
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.dll
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.pdb
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.dll
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.pdb
+C:\Users\jhonn\OneDrive\Documentos\UnADM\Code\DPRN1_U3_A3_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U3_A3_JHRM.genruntimeconfig.cache

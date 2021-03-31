@@ -1,0 +1,13 @@
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.exe
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.deps.json
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.runtimeconfig.json
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.runtimeconfig.dev.json
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.dll
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\bin\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.pdb
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.csprojAssemblyReference.cache
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.AssemblyInfoInputs.cache
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.AssemblyInfo.cs
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.dll
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.pdb
+C:\Users\jhonn\source\repos\DPRN1_U2_A4_JHRM\obj\Debug\netcoreapp3.1\DPRN1_U2_A4_JHRM.genruntimeconfig.cache
