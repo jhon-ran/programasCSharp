@@ -53,4 +53,55 @@ Programa que calcula cuánta pintura y el costo que necesita el pintor para pint
 ### Salidas
 * Cuánta pintura y el costo que necesita el pintor para pintar la habitación
 * Cuanta pintura sobrará después del redondeo
-* Presupuesto considerando una ganancia del 30% para el pintor.
+* Presupuesto considerando una ganancia del 30% para el pintor
+
+## DPRN1_U3_A3_JHRM
+Programa que calcula la suma, resta, multiplicación o división de 2 numeros
+## Entradas
+2 números
+## Salidas
+Resultado del cálculo
+
+## DPRN1_U3_A4_JHRM
+Programa que se compone de dos módulos. El primero construye dos triángulos (uno de cabeza y el otro regular) en base a un número de pisos seleccionado por el usuario. El segundo realiza la facturación de una tarjeta de crédito de acuerdo al monto a pagar y los pagos que se quieren realizar
+### Entradas
+* Número de de pisos para pirámide (int)
+* Saldo inicial (int)
+* Pago mensual (int)
+### Salidas
+* Pagos mensuales
+* Número de pagos mensuales a realizar
+
+## DPRN1_U3_EA_JHRM
+Programa que se compone de dos módulos. El primero permite clasificar fotografías si son blanco y negro o a color. El segundo calcula el número de niveles que tendrá una pirámide de acuerdo al número de cubos dado
+### Entradas
+* Número de filas (int)
+* Número de columnas
+* Letras en función de colores (string)
+* Número de cubos para pirámide (int)
+### Salidas
+* Color de foto
+* Altura máxima de pirámide en función de los cubos (int)
+
+## DPRN1_U3_AC_JHRM
+Programa con un menú y 5 módulos: 
+* 1. El usuario ingresa su apellido y se le asigna una mascota de acuerdo a la primera letra del mismo
+* 2. Se pueden dar alta las mascotas en la tienda, actualizando la base de datos (simulada por ahora) 
+* 3. Se pueden dar de baja las mascotas del inventario
+* 4. Se puede vender una mascota al cliente
+## Entradas
+* Appellido paterno (string)
+* Animal (string)
+* Raza (string)
+* Cantidad de animales (int)
+* Selección de mascota a dar de baja (int)
+* Cantidad a dar de baja (int)
+* Seleccioonar mascota para ver (int)
+* Salir (s/n) (string)
+* Elejir mascota a vender (int)
+* Denominación de billetes y monedas de 500, 200, 100, 50, 20, 5, 1 (int)
+
+## Salidas
+* Mascota (string)
+* Denominación de billetes y monedas a entregar de 500, 200, 100, 50, 20, 5, 1 (int)
+* Cambio
